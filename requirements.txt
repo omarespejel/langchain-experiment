@@ -1,0 +1,7 @@
+openai
+pypdf
+tiktoken
+faiss-cpu
+transformers
+sentence-transformers
+huggingface_hub
